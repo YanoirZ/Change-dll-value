@@ -46,7 +46,7 @@ int main()
             CloseHandle(processHandle);
             return 1;
         }
-        Sleep(360*1000);
+        Sleep(2000);
     }
 
     CloseHandle(processHandle);
