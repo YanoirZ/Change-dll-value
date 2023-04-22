@@ -1,1 +1,1 @@
-change sleep (line 49) time before u run main.cpp
+change sleep time (line 49) depend on ur pc before u run main.cpp
